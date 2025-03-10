@@ -1,13 +1,13 @@
 # Hi 👋, I'm Vishakh Neelakantan  
 
-A passionate Software Engineer from India, currently pursuing a **B.Tech in Computer Science** at **Bennett University**. I am passionate about **Software Development, Cloud Computing, and Cybersecurity**.  
+A passionate Software Engineer from India, currently pursuing a **B.Tech in Computer Science** at **Bennett University**. I am passionate about **Software Development**.  
 
 ---
 
 ## 🔍 About Me  
 
 - 🎓 **B.Tech CSE** (CGPA: 9.14) | Bennett University (2021 – May 2025)  
-- 💡 Interests: **Backend Development, Cloud Security, Distributed Systems, Cryptography**  
+- 💡 Interests: **Software Development, Backend Development, Cloud, Cryptography**  
 - 🚀 I have worked on **AI-powered applications, security tools, and database management systems**  
 - 🔍 Always learning and exploring new technologies  
 
@@ -27,28 +27,21 @@ A passionate Software Engineer from India, currently pursuing a **B.Tech in Comp
 
 ### **Intern - Ministry of Electronics and Information Technology (MeitY)**  
 *June 2024 - August 2024*  
-- Conducted **research on cloud sovereignty** and its technical implementation in India  
-- Contributed to **mini projects at Software Technology Parks of India (STPI)** on emerging technologies  
-
 ---
 
 ## 🚀 Projects  
 
-- **File Integrity Manager System** (*Python, HTML/CSS*)  
-  - Designed a system to **monitor and verify file integrity** using cryptographic hash functions  
-  - Ensured **real-time detection of unauthorized changes** for better security  
+- **Portfolio Website** (*Next.js, Tailwind CSS, Vercel*)
 
-- **Interactive Document Query System** (*Python, OpenAI API, HTML/CSS*)  
-  - Built a chatbot-based system to **deliver precise, contextually relevant responses** to document queries  
+- **File Integrity Manager System** (*Python, HTML/CSS*)    
 
-- **Student Elective Manager** (*React.js, Firebase*)  
-  - Developed a user-friendly **elective management system** with Firebase backend  
+- **Interactive Document Query System** (*Python, OpenAI API, HTML/CSS*)   
 
-- **Sign2Speak** (*Java, Python, TensorFlow*)  
-  - Created a mobile app using **EfficientNetB0** to translate **sign language into English text**  
+- **Student Elective Manager** (*React.js, Firebase*)    
 
-- **Passvault – Secure Password Manager** (*Java, Firebase*)  
-  - Developed a **password generation & storage application**, published on Google Play Store  
+- **Sign2Speak** (*Java, Python, TensorFlow*)   
+
+- **Passvault – Secure Password Manager** (*Java, Firebase*)   
 
 ---
 
@@ -66,6 +59,8 @@ A passionate Software Engineer from India, currently pursuing a **B.Tech in Comp
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Vishakh-Neelakantan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishakh-neelakantan/)  
 📧 **Email**: [vishakhneelakantan@gmail.com](mailto:vishakhneelakantan@gmail.com)  
+[![Linktree](https://linktr.ee/nvishakh)
+[![Portfolio](https://vishakhn.vercel.app/)
 
 ---
 
