@@ -58,9 +58,9 @@ A passionate Software Engineer from India, currently pursuing a **B.Tech in Comp
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Vishakh-Neelakantan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishakh-neelakantan/)  
-📧 **Email**: [vishakhneelakantan@gmail.com](mailto:vishakhneelakantan@gmail.com)  
-[![Linktree](https://linktr.ee/nvishakh)
-[![Portfolio](https://vishakhn.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishakhneelakantan@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nvishakh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)]([https://yourportfolio.com](https://vishakhn.vercel.app/))
 
 ---
 
