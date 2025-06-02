@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishakh Neelakantan  
 
-A passionate Software Engineer from India, currently pursuing a **B.Tech in Computer Science** at **Bennett University**. I am passionate about **Software Development**.  
+A passionate Software Engineer, currently pursuing a **B.Tech in Computer Science** at **Bennett University**. I am passionate about **Software Development**.  
 
 ---
 
