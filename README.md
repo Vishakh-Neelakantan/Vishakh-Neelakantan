@@ -61,7 +61,7 @@ A passionate Software Engineer, currently pursuing a **B.Tech in Computer Scienc
 
 ## 🚀 Projects  
 
-- **Spaced Repetition Based Learning** (*Next.js, Tailwind CSS, FastAPI, TensorFlow + Scikit-Learn, RESTful API*) 
+- **Spaced Repetition Based Learning** (*Python, FastAPI, TensorFlow + Scikit-Learn, RESTful API, Next.js, Tailwind CSS*)
 
 - **Portfolio Website** (*Next.js, Tailwind CSS, Vercel*)
 
