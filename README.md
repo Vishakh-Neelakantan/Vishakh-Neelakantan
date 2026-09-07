@@ -6,8 +6,8 @@ A passionate Software Engineer, currently pursuing a **B.Tech in Computer Scienc
 
 ## 🔍 About Me  
 
-- 🎓 **B.Tech CSE** (CGPA: 9.14) | Bennett University (2021 – May 2025)  
-- 💡 Interests: **Software Development, Backend Development, Frontend Development, Cloud, Cryptography**  
+- 🎓 **B.Tech CSE** (CGPA: 9.13) | Bennett University (2021 – May 2025)  
+- 💡 Interests: **Software Development, Backend Development, Cloud, Cryptography**  
 - 🚀 I have worked on **Interactive websites, AI-powered applications, security tools, and database management systems**  
 - 🔍 Always learning and exploring new technologies  
 
@@ -17,6 +17,7 @@ A passionate Software Engineer, currently pursuing a **B.Tech in Computer Scienc
 
 ### **Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -55,11 +56,17 @@ A passionate Software Engineer, currently pursuing a **B.Tech in Computer Scienc
 
 ## 🏆 Experience  
 
+### **Analyst - HCLTech**  (August 2025 - Present)
+
 ### **Intern - Ministry of Electronics and Information Technology (MeitY)**  (June 2024 - August 2024)
   
 ---
 
 ## 🚀 Projects  
+
+- **Rate Limiter** (*Java 21, Maven, JUnit 5*)
+
+- **Expense Tracker** (*Java 21, SQLite, JDBC, JUnit 5*)
 
 - **Spaced Repetition Based Learning** (*Python, FastAPI, TensorFlow + Scikit-Learn, RESTful API, Next.js, Tailwind CSS*)
 
@@ -83,12 +90,6 @@ A passionate Software Engineer, currently pursuing a **B.Tech in Computer Scienc
 - **IBM: Introduction to Cybersecurity Tools & Cyberattacks** 
 - **Google: The Bits and Bytes of Computer Networking**  
 - **Machine Learning: Classification - University of Washington**  
-
----
-## 📊 GitHub Stats
-### Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakh-Neelakantan&layout=compact&langs_count=6&theme=dark)
 
 ---
 
