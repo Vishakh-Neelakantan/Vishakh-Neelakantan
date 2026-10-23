@@ -1,13 +1,13 @@
 # Hi 👋, I'm Vishakh Neelakantan  
 
-A passionate Software Engineer, currently pursuing a **B.Tech in Computer Science** at **Bennett University**. I am passionate about **Software Development**.  
+A passionate Software Engineer, currently working as an **Analyst** at **HCLTech**. 
 
 ---
 
 ## 🔍 About Me  
 
-- 🎓 **B.Tech CSE** (CGPA: 9.13) | Bennett University (2021 – May 2025)  
-- 💡 Interests: **Software Development, Backend Development, Cloud, Cryptography**  
+- 🎓 **B.Tech CSE** (CGPA: 9.13) | Bennett University (2021 – 2025)  
+- 💡 Interests: **Software Development, Backend Development, AI, Cloud, Cryptography**  
 - 🚀 I have worked on **Interactive websites, AI-powered applications, security tools, and database management systems**  
 - 🔍 Always learning and exploring new technologies  
 
